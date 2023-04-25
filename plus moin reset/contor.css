@@ -1,0 +1,15 @@
+div{
+    position: absolute;
+    top: 30%;
+    left: 45%;
+}
+p{
+    font-size: 400%;
+}
+button{
+    font-size: 180%;
+    padding: 15px;
+}
+.res{
+    margin-bottom: 40px;
+}
